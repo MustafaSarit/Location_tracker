@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "922776001405",
+    "firebase_url": "https://authent-dea36.firebaseio.com",
+    "project_id": "authent-dea36",
+    "storage_bucket": "authent-dea36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922776001405:android:33bd4b9a3c5ca9119b8a14",
+        "android_client_info": {
+          "package_name": "com.example.deneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922776001405-v5lf1880lft37o4qfajjg4oha2fep6jd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.deneme",
+            "certificate_hash": "d22eaa8974aa01025b1ca9e162076d4e4749b82d"
+          }
+        },
+        {
+          "client_id": "922776001405-n8i6g3nf4k8t1equho5keg6l7c7f0l70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4J5FcIfTNpZPpIxh4xwakVA2zZaq9jXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922776001405-n8i6g3nf4k8t1equho5keg6l7c7f0l70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
